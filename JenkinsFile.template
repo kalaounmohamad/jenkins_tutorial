@@ -14,7 +14,7 @@ pipeline {
             steps {
                 echo "Testing.."
                 bat '''
-                echo "doing test stuff..
+                echo "doing test stuff.."
                 '''
             }
         }
